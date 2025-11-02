@@ -1,0 +1,18 @@
+body{
+    background: #424141;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+th,td{
+    border: 2px solid white;
+    padding: 20px;
+    border-collapse: collapse;
+}
+
+td{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
